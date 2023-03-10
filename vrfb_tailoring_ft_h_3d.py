@@ -532,7 +532,7 @@ gmsh.model.mesh.generate(1)
 gmsh.model.mesh.generate(2)
 gmsh.model.mesh.generate(3)
 
-gmsh.write("vrfb_tailoring_ft_h_3d.msh")
+#gmsh.write("vrfb_tailoring_ft_h_3d_20230310.msh")
 
 gmsh.fltk.run()
 gmsh.finalize()
